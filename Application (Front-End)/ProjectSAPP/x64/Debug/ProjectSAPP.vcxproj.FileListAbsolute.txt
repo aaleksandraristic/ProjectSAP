@@ -1,0 +1,6 @@
+C:\Users\alexr\source\repos\ProjectSAPP\ProjectSAPP\x64\Debug\ProjectSAPP.vcxproj.AssemblyReference.cache
+C:\Users\alexr\source\repos\ProjectSAPP\ProjectSAPP\x64\Debug\ProjectSAPP.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\alexr\source\repos\ProjectSAPP\ProjectSAPP\x64\Debug\ProjectSAPP.LoginForm.resources
+C:\Users\alexr\source\repos\ProjectSAPP\ProjectSAPP\x64\Debug\ProjectSAPP.MainForm.resources
+C:\Users\alexr\source\repos\ProjectSAPP\ProjectSAPP\x64\Debug\ProjectSAPP.RegisterForm.resources
+C:\Users\alexr\source\repos\ProjectSAPP\ProjectSAPP\x64\Debug\ProjectSAPP.vcxproj.GenerateResource.cache
