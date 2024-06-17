@@ -5,7 +5,7 @@ Students can easily create an account, log in, and submit an application on a we
 The project resulted in a robust, secure, and efficient Student Admissions Portal, significantly improving the application submission process and providing a reliable backend infrastructure.
 
 
-****My Key Contributions: ****
+**My Key Contributions: **
 - **Team Lead & Project Manager:** leading the team of three; organizing tasks; managing timelines and progress; supervising my team; testing and presenting the project
 - **Database Design & Development - SQL queries:** creating DB and tables; stored procedures & triggers; database testing
 - **Front-End and Back-End Connectivity:** providing key insights; checking team's coding part; fixing errors
