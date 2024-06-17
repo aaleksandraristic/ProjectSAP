@@ -1,4 +1,4 @@
-**Database Implementation - Student Admissions Portal (SAP)**
+**SQL Server Database Implementation - Student Admissions Portal (SAP)**
 
 The purpose of this project was to create a student admissions portal that allows students to efficiently and quickly submit a college application. 
 Students can easily create an account, log in, and submit an application on a website. The front-end application connects to a back-end database system in SQL Server 2022. 
