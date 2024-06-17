@@ -4,6 +4,20 @@ The purpose of this project was to create a student admissions portal that allow
 Students can easily create an account, log in, and submit an application on a website. The front-end application connects to a back-end database system in SQL Server 2022. 
 The project resulted in a robust, secure, and efficient Student Admissions Portal, significantly improving the application submission process and providing a reliable backend infrastructure.
 
+1.	Web Server: Operating System  - Windows, Mac OS Linux, or any other supported server
+
+2.	Database Server - SQL Server and SSMS
+
+3.	Programming Languages  - C++, SQL
+
+4.	Frameworks and libraries - .net
+
+5.	Internet connectivity - stable, reliable internet connection
+
+6.	Backup
+
+7.	Security Measures
+
 
 **My Key Contributions:**
 - **Team Lead & Project Manager:** leading the team of three; organizing tasks; managing timelines and progress; supervising my team; testing and presenting the project
