@@ -19,13 +19,13 @@ The project resulted in a robust, secure, and efficient Student Admissions Porta
 7.	Security Measures
 
 
-**Key Contributions:**
+# Key Contributions:
 - **Team Lead & Project Manager:** leading the team of three; organizing tasks; managing timelines and progress; supervising my team; testing and presenting the project
 - **Database Design & Development - SQL queries:** creating DB and tables; stored procedures & triggers; database testing
 - **Front-End and Back-End Connectivity:** providing key insights; checking team's coding part; fixing errors
 - **Security Plan:** hashed-passwords; user authentication
 
-**Example of the stored procedures:
+# Example of the stored procedures:
 ![image](https://github.com/aaleksandraristic/SQLDatabase-Implementation---Student-Admissions-Portal-SAP-/assets/140200824/3f04af8c-1939-472a-8d31-f59f3d222848)
 
 
